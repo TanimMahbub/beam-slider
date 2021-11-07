@@ -1,4 +1,4 @@
-(function(){
+
 	"use strict";
 
 	// getting getElelements in shorter words
@@ -150,4 +150,3 @@
 
 		}
 	}
-})();
